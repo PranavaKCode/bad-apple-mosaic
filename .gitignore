@@ -1,0 +1,7 @@
+# generated from the pv by extract.py
+badapple.js
+*.mp4
+*.webm
+*.mkv
+*.npy
+__pycache__/
